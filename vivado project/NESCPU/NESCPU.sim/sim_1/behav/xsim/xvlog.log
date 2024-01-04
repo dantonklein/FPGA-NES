@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/klein/Documents/projects/FPGA-NES/hw/src/cpu/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RP2A03_ALU
+WARNING: [VRFC 10-8864] concatenation with an unsized literal will be treated as 32 bits [C:/Users/klein/Documents/projects/FPGA-NES/hw/src/cpu/alu.sv:34]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/klein/Documents/projects/FPGA-NES/hw/src/cpu/alu_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_tb
+WARNING: [VRFC 10-8864] concatenation with an unsized literal will be treated as 32 bits [C:/Users/klein/Documents/projects/FPGA-NES/hw/src/cpu/alu_tb.sv:78]
