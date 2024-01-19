@@ -1,8 +1,8 @@
 // Register code used for the FPGA NES Project by Danton Klein and Anthony Stross
 
-module reg 
+module register 
 #(
-    parameter WIDTH
+    parameter WIDTH = 8
 )
 (
     input logic [WIDTH-1:0] in,
